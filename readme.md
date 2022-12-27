@@ -14,7 +14,7 @@
 
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=anjulgupta12&label=Profile%20views&color=0e75b6&style=flat" alt="anjulgupta12" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ayushinayak28&label=Profile%20views&color=0e75b6&style=flat" alt="ayushinayak28" /> </p>
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anjulgupta12" alt="anjulgupta12" /></a> </p>-->
 
