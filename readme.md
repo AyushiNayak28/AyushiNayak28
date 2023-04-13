@@ -1,5 +1,5 @@
-<h1 align="center">Hey <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="40px" width="40px">, It's me ANJUL GUPTA</h1>
-<h3 align="center">An Automation and testing engineer from India(IVS-SDET)<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h3>
+<h1 align="center">Hey <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="40px" width="40px">, It's me AYUSHI NAYAK</h1>
+<h3 align="center">A software engineer from India<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h3>
 
 <p align="center">
   <img width="100" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
@@ -7,8 +7,8 @@
 
 
 
-<h5 align="center">Driven software engineer in automation and testing who enjoys finding solutions to challenging problems. Graduated with a B.Tech degree in Mechanical.</br>
-</br>Currently working in Java on technologies like Selanium, TestNG, Cucumber, Gerkhin, Maven and designing automation framework based on application requirement. Also have experience in Java, C/C++, Python.
+<h5 align="center">Driven software engineer, who enjoys finding solutions to challenging problems. Graduated with a B.Tech degree in Computer Science and engineering .</br>
+</br>Currently working in Java on technologies like . Also have experience in Java, C/C++, Python.
 </br></br>I am interested in learning, teaching and helping people to grow. I believe in the power of programming to transform and improve the lives of people around the world.
 </h5>
 
